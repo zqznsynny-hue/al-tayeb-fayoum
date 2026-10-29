@@ -1,0 +1,6 @@
+{
+  "name": "مطعم الطيب | نكهة المأكولات المصرية الأصيلة بالفيوم",
+  "description": "الموقع الرسمي لمطعم الطيب بالفيوم - مأكولات مصرية، مشويات ع الفحم، طواجن فخار، صواني ملوك، غرف VIP عائلية وصالة ألعاب أطفال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
